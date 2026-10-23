@@ -3,10 +3,10 @@
 An exploratory data analysis of San Francisco city employee compensation (2011-2014) using Python and pandas. The notebook answers 21 practical questions that cover data inspection, cleaning, filtering, and aggregation.
 
 # Dataset
--- Source: San Francisco Salaries dataset (public city employee compensation records, available on Kaggle)
--- Size: 148,654 rows x 13 columns
--- Years covered: 2011-2014
-# Key columns: EmployeeName, JobTitle, BasePay, OvertimePay, OtherPay, Benefits, TotalPay, TotalPayBenefits, Year
+- Source: San Francisco Salaries dataset (public city employee compensation records, available on Kaggle)
+- Size: 148,654 rows x 13 columns
+- Years covered: 2011-2014
+# Key Columns: EmployeeName, JobTitle, BasePay, OvertimePay, OtherPay, Benefits, TotalPay, TotalPayBenefits, Year
 
 
 # What the Notebook Covers
